@@ -1,1 +1,1 @@
-map
+map of El Salvador, with Departments
